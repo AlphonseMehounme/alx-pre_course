@@ -1,1 +1,3 @@
 My first readme
+
+Now I am learning more about git - It is an amazing tool...
